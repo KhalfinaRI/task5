@@ -1,0 +1,15 @@
+/Users/Regina/Desktop/GB/Program language/task5/ex003/bin/Debug/net6.0/ex003
+/Users/Regina/Desktop/GB/Program language/task5/ex003/bin/Debug/net6.0/ex003.deps.json
+/Users/Regina/Desktop/GB/Program language/task5/ex003/bin/Debug/net6.0/ex003.runtimeconfig.json
+/Users/Regina/Desktop/GB/Program language/task5/ex003/bin/Debug/net6.0/ex003.dll
+/Users/Regina/Desktop/GB/Program language/task5/ex003/bin/Debug/net6.0/ex003.pdb
+/Users/Regina/Desktop/GB/Program language/task5/ex003/obj/Debug/net6.0/ex003.csproj.AssemblyReference.cache
+/Users/Regina/Desktop/GB/Program language/task5/ex003/obj/Debug/net6.0/ex003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Regina/Desktop/GB/Program language/task5/ex003/obj/Debug/net6.0/ex003.AssemblyInfoInputs.cache
+/Users/Regina/Desktop/GB/Program language/task5/ex003/obj/Debug/net6.0/ex003.AssemblyInfo.cs
+/Users/Regina/Desktop/GB/Program language/task5/ex003/obj/Debug/net6.0/ex003.csproj.CoreCompileInputs.cache
+/Users/Regina/Desktop/GB/Program language/task5/ex003/obj/Debug/net6.0/ex003.dll
+/Users/Regina/Desktop/GB/Program language/task5/ex003/obj/Debug/net6.0/refint/ex003.dll
+/Users/Regina/Desktop/GB/Program language/task5/ex003/obj/Debug/net6.0/ex003.pdb
+/Users/Regina/Desktop/GB/Program language/task5/ex003/obj/Debug/net6.0/ex003.genruntimeconfig.cache
+/Users/Regina/Desktop/GB/Program language/task5/ex003/obj/Debug/net6.0/ref/ex003.dll
